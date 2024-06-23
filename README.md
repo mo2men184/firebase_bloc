@@ -27,7 +27,7 @@ Contributions are welcome! Please feel free to submit a pull request or open iss
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments 🙏
 
